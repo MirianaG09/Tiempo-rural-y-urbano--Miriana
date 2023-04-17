@@ -12,7 +12,7 @@ Empleando los medios de transporte públicos como autobús, ferry y autos tambi�
 
 ![_Jicaral, Puntarenas de Costa Rica_](Jicaral.jpg)
 
-[_Jicaral, Puntarenas de Costa Rica_] Imagen tomada de [Ver País](https://www.verpais.com/costa+rica/puntarenas/jicaral/foto/2895/)
+_Jicaral, Puntarenas de Costa Rica_, imagen tomada de [Ver País](https://www.verpais.com/costa+rica/puntarenas/jicaral/foto/2895/)
 
 
 ![_San José, San José de Costa Rica_](https://www2.uil.unesco.org/sites/default/files/styles/horizontal_5x3_688x412/public/news/san-jose-costa-rica-copyright-david-ingram.jpg?itok=Kx5uYc0k)
