@@ -39,5 +39,5 @@ En este mismo contexto, personalmente pienso, que es porque todo va a un nivel d
 
 - [Dilatación del tiempo](https://es.wikipedia.org/wiki/Dilataci%C3%B3n_del_tiempo#:~:text=De%20acuerdo%20con%20la%20teor%C3%ADa,relaci%C3%B3n%20con%20un%20campo%20gravitacional.)
 - [Teoría de la relatividad](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_relatividad)
-- [La Dilatación del Tiempo|FU2020](https://youtu.be/V8mrEJsx7cE)
+- [La Dilatación del Tiempo](https://youtu.be/V8mrEJsx7cE)
 - [Qué es la teoría de la relatividad de Einstein y por qué fue tan revolucionaria](https://youtu.be/oFbgfkh4cj8)
