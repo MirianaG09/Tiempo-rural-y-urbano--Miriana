@@ -1,4 +1,3 @@
-# Tarea-01-Miriana
 # **Percepción del tiempo en espacios distintos**
 
 **Hipótesis:** En el contexto rural el tiempo pasa más despacio que en la urbanidad por el movimiento de los cuerpos y dinámicas que componen dichos espacios según el tiempo que se vive.
